@@ -13,7 +13,7 @@ Blue Team, SOC, SIEM, SOAR, CTI, Forensics, Investigation, Malware Analysis, Rev
 ## CWL
 + Cyber Security Analyst [C3SA]: [1](https://cyberwarfare.live/product/cyber-security-analyst-c3sa/) [2](https://app.kajabi.com/certificates/be3a2597) [3](https://github.com/h4md153v63n/DefenSec/blob/main/1/01_C3SA.md)
  
-    
+     
     
  
  
