@@ -1,4 +1,6 @@
 # [Cyber Defence Analyst [CCDA]](https://cyberwarfare.live/product/cyber-defence-analyst-ccda/)
+The Cyber Defence Analyst [CCDA] certification equips professionals with the essential skills and knowledge to safeguard digital assets against cyber threats. Through comprehensive training, candidates learn to detect, analyze, and respond to cyber attacks effectively, bolstering organizational defenses and ensuring resilience in the face of evolving cybersecurity challenges.
+
 + Perform Threat Detection & Its Investigation over the suspected phishing, web-based, network-based, and host-centric attacks
 + Conduct an investigation utilizing numerous defensive solutions like incident response, network monitoring, SIEM, FIM etc.
 + Comprehend the entirety of the organization’s cyber-defense strategy and tactical approaches.
