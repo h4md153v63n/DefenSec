@@ -11,7 +11,7 @@ The Certified Cyber Defence Analyst (CCDA) training provides a beginner-friendly
 
 ![image](https://github.com/user-attachments/assets/80de8e20-f67a-49e5-b828-1f65f942ac1b)
        
-     
+      
 ## CWL Practical Approach
 The CCDA were especially designed for the beginners to understand and enhance their real time investigation and incident response skills for the cyber defenders to adapt to the evolving threat landscape and effectively safeguard organizations against cyber attacks. Our simulated blue team infrastructure includes a variety of investigation challenges and is additionally integrated with several defense solutions.
 + Perform Threat Detection & Its Investigation over the suspected phishing, web-based, network-based, and host-centric attacks
