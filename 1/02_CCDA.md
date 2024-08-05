@@ -20,4 +20,3 @@ The CCDA were especially designed for the beginners to understand and enhance th
 + Comprehend the entirety of the organization's cyber-defense strategy and tactical approaches.
 + Practical familiarity with diverse investigative approaches and structured incident response mind map within organizational contexts.
 
-
