@@ -6,7 +6,7 @@ The Cyber Defence Analyst [CCDA] certification equips professionals with the ess
 + Comprehend the entirety of the organization’s cyber-defense strategy and tactical approaches.
 + Practical familiarity with diverse investigative approaches and structured incident response mind map within organizational contexts.
                                                          
-                                            
+                                             
 ## About the CCDA Lab
 The Certified Cyber Defence Analyst (CCDA) training provides a beginner-friendly investigative approach to Blue Teaming. It aims to equip participants with essential knowledge and skills for effective threat detection and investigation within a Blue Team. Topics covered include a general introduction to Cyber Defence, comprehensive investigation and analysis of phishing threats, examination of web/network targeted attacks, and exploration of techniques and analytical methods for host-based intrusions.
 
